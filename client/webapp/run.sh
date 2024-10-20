@@ -1,3 +1,3 @@
 #!/bin/bash
 
-node -r dotenv/config build
+ORIGIN=http://localhost:3000 node -r dotenv/config build
