@@ -27,6 +27,10 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"dotenv": "^16.4.5"
+		"@auth/pg-adapter": "^1.7.2",
+		"@auth/sveltekit": "^1.7.2",
+		"dotenv": "^16.4.5",
+		"nodemailer": "^6.9.15",
+		"pg": "^8.13.0"
 	}
 }
